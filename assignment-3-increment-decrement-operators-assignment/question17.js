@@ -1,0 +1,8 @@
+let a = 5;
+let b = a++;
+
+console.log(a);
+console.log(b);
+
+// Output: 6
+// 5
