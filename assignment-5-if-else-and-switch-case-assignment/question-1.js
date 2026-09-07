@@ -14,3 +14,6 @@ else {
     console.log("Greatest Number is :" + thirdNumber);
 
 }
+
+// Expected Output:
+// The greatest: 87
